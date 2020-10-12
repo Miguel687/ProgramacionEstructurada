@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.util.LinkedList;
 
 /**
- * Created by lwm on 03.09.16.
+ * Created by Miky
  */
 public class Main {
     public static void main(String[] args) throws IOException {
